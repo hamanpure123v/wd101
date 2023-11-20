@@ -71,9 +71,9 @@ const display_entries =  () => {
             
   <tr>
       <th>Name</th>
-      <th>Email Id</th>
+      <th>Email</th>
       <th>Password</th>
-      <th>Date of Birth</th>
+      <th>Dob</th>
       <th>Accepted terms?</th>
   </tr>
   ${table_entries}
